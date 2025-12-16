@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Over Manajo – Professionele Video Met Impact | Menselijk & Betekenisvol</title>
+    <meta name="description"
+        content="Ontdek het verhaal achter Manajo. Wij maken video’s die raken, verbinden en maatschappelijke impact versterken via Stichting VindiQu.">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Icons -->
+    <!DOCTYPE html>
+    <html lang="nl">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Over Manajo – Professionele Video Met Impact | Menselijk & Betekenisvol</title>
+        <meta name="description"
+            content="Ontdek het verhaal achter Manajo. Wij maken video’s die raken, verbinden en maatschappelijke impact versterken via Stichting VindiQu.">
+
+        <!-- Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap"
+            rel="stylesheet">
+
+        <!-- Icons -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+        <!-- Styles -->
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container nav-container">
+            <a href="index.html" class="logo">MANAJO</a>
+            <div class="mobile-menu-btn">
+                <i class="fas fa-bars"></i>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html" class="nav-link">Home</a></li>
+                <li><a href="about.html" class="nav-link active">Over Manajo</a></li>
+                <li><a href="services.html" class="nav-link">Diensten</a></li>
+                <li><a href="contact.html" class="nav-link">Contact</a></li>
+                <li><a href="contact.html" class="btn btn-primary">Plan een gesprek</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Header -->
+    <header class="page-header section text-center">
+        <div class="container">
+            <h1>Wij maken video’s met betekenis</h1>
+            <p class="lead">Manajo is ontstaan vanuit een simpel idee: Verhalen verdienen aandacht en mensen
+                verdienen verbinding. 
+                <br>
+                <br>    
+                Media is een krachtig middel om deze doelen te laten zien aan een breed publiek.</p>
+        </div>
+    </header>
+
+    <!-- Kevin Jacobs Section -->
+    <section class="section bg-white">
+        <div class="container">
+            <div class="text-center mb-lg">
+                <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-bottom: 30px;">
+                    <img src="images/kevin-portrait.jpg" alt="Kevin Jacobs"
+                        style="height: 350px; width: auto; object-fit: cover; border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
+                    <img src="images/kevin-filming-action.jpg" alt="Kevin in actie"
+                        style="height: 350px; width: auto; object-fit: cover; border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
+                </div>
+                <div class="max-width-800 mx-auto">
+                    <h2>Kevin Jacobs – Ondernemer met een missie</h2>
+                    <p>Manajo is ontstaan uit de wens om professionele videoproductie te combineren met sociale
+                        betrokkenheid. In een wereld die steeds digitaler wordt, willen wij de menselijke connectie
+                        behouden en versterken.</p>
+                    <p>Als ondernemer geloof ik dat we verantwoordelijkheid dragen voor de verhalen die we
+                        vertellen.
+                        Met Manajo en Stichting VindiQu zetten we technologie in om mensen dichter bij elkaar te
+                        brengen.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Mission Section -->
+    <section class="section mission-section bg-light-1">
+        <div class="container">
+            <div class="split-layout reverse-mobile">
+                <div class="text-content">
+                    <h2>Missie</h2>
+                    <p>Onze missie is om video te gebruiken als middel voor menselijke verbinding, in een wereld die
+                        steeds sneller beweegt.</p>
+                    <p>We geloven dat video een krachtig middel is om mensen te verbinden, emoties te delen,
+                        duidelijkheid te scheppen en maatschappelijke impact te maken.</p>
+                    <p>We creëren video’s die:</p>
+                    <ul class="feature-list" style="list-style: none; margin-left: 0;">
+                        <li><i class="fas fa-check" style="color: var(--color-primary); margin-right: 10px;"></i> écht
+                            raken</li>
+                        <li><i class="fas fa-check" style="color: var(--color-primary); margin-right: 10px;"></i> helder
+                            de boodschap overbrengen</li>
+                        <li><i class="fas fa-check" style="color: var(--color-primary); margin-right: 10px;"></i>
+                            toegankelijk zijn</li>
+                        <li><i class="fas fa-check" style="color: var(--color-primary); margin-right: 10px;"></i>
+                            maatschappelijke waarde hebben</li>
+                        <li><i class="fas fa-check" style="color: var(--color-primary); margin-right: 10px;"></i>
+                            relevant blijven </li>
+                    </ul>
+                </div>
+                <div class="image-content">
+                    <img src="images/cheese-market-event.jpg" alt="Kaasmarkt evenement">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why Manajo Section -->
+    <section class="section usp-section bg-white">
+        <div class="container">
+            <div class="section-header text-center">
+                <h2>Waarom Manajo?</h2>
+            </div>
+            <div class="usp-grid">
+                <div class="usp-item">
+                    <i class="fas fa-film"></i>
+                    <h3>Professioneel én warm</h3>
+                    <p>Wij brengen het technische en het menselijke samen.</p>
+                </div>
+                <div class="usp-item">
+                    <i class="fas fa-puzzle-piece"></i>
+                    <h3>Persoonlijk maatwerk</h3>
+                    <p>Geen standaard formats — wél volledige aandacht voor jouw verhaal.</p>
+                </div>
+                <div class="usp-item">
+                    <i class="fas fa-heart"></i>
+                    <h3>Samenwerking met Stichting VindiQu</h3>
+                    <p>Met elke opdracht draag je automatisch bij aan sociale impact.</p>
+                </div>
+                <div class="usp-item">
+                    <i class="fas fa-compass"></i>
+                    <h3>Ervaring met diverse doelgroepen</h3>
+                    <p>Landelijk netwerk met zorgorganisaties, bedrijven en gemeenschappen.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Partners Section -->
+    <section class="section partners-section bg-light-1">
+        <div class="container text-center">
+            <h3 class="mb-md" style="color: var(--color-primary); font-weight: 500;">Trotse partner van</h3>
+            <div class="logo-grid">
+                <a href="https://sustainablehealthcarechallenge.nl" target="_blank" rel="noopener noreferrer"
+                    class="partner-link">
+                    <img src="images/logo-shc.png" alt="Sustainable Healthcare Challenge" class="partner-logo">
+                </a>
+                <a href="https://www.social-enterprise.nl" target="_blank" rel="noopener noreferrer"
+                    class="partner-link">
+                    <img src="images/logo-social-enterprise.png" alt="Social Enterprise NL" class="partner-logo">
+                </a>
+                <a href="https://www.yesdelft.com" target="_blank" rel="noopener noreferrer" class="partner-link">
+                    <img src="images/logo-yes-delft.jpg" alt="YES!Delft" class="partner-logo">
+                </a>
+                <a href="https://www.zorginnovatie.nl/accelerator" target="_blank" rel="noopener noreferrer"
+                    class="partner-link">
+                    <img src="images/logo-hia.jpg" alt="Health Impact Accelerator" class="partner-logo">
+                </a>
+                <a href="https://www.igniteaward.nl" target="_blank" rel="noopener noreferrer" class="partner-link">
+                    <img src="images/logo-ignite.png" alt="Ignite Award" class="partner-logo">
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="section cta-section text-center bg-light-2">
+        <div class="container">
+            <h2>Benieuwd wat we voor jouw verhaal kunnen betekenen?</h2>
+            <p>Laten we persoonlijk hierover kennis maken.</p>
+            <div class="mt-md">
+                <a href="contact.html" class="btn btn-primary">Neem contact op</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <h4>MANAJO</h4>
+                    <p>Video met Impact.</p>
+                </div>
+                <div class="footer-col">
+                    <h4>Diensten</h4>
+                    <ul class="footer-links">
+                        <li><a href="services.html#interactief">Interactieve Rondleidingen</a></li>
+                        <li><a href="services.html#video">Bedrijfsvideo's</a></li>
+                        <li><a href="services.html#social">Livestreams</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Contact</h4>
+                    <ul class="footer-links">
+                        <li><a href="contact.html">Plan een gesprek</a></li>
+                        <li><a href="mailto:kevin@manajo.nl">kevin@manajo.nl</a></li>
+                        <li><a href="tel:+31645495501">+31 6 45 49 55 01</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Manajo. Alle rechten voorbehouden.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+
+</html>
