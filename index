@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manajo – Video met Impact | Bedrijfsvideo’s, Livestreams & Interactieve Rondleidingen</title>
+    <meta name="description"
+        content="Video met impact, menselijke storytelling en professionele videoproducties. Manajo creëert bedrijfsvideo’s, livestreams en interactieve rondleidingen inclusief VindiQu.">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Icons -->
+    <!DOCTYPE html>
+    <html lang="nl">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Manajo – Video met Impact | Bedrijfsvideo’s, Livestreams & Interactieve Rondleidingen</title>
+        <meta name="description"
+            content="Video met impact, menselijke storytelling en professionele videoproducties. Manajo creëert bedrijfsvideo’s, livestreams en interactieve rondleidingen inclusief VindiQu.">
+
+        <!-- Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap"
+            rel="stylesheet">
+
+        <!-- Icons -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+        <!-- Styles -->
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container nav-container">
+            <a href="index.html" class="logo">MANAJO</a>
+            <div class="mobile-menu-btn">
+                <i class="fas fa-bars"></i>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html" class="nav-link active">Home</a></li>
+                <li><a href="about.html" class="nav-link">Over Manajo</a></li>
+                <li><a href="services.html" class="nav-link">Diensten</a></li>
+                <li><a href="contact.html" class="nav-link">Contact</a></li>
+                <li><a href="contact.html" class="btn btn-primary">Plan een gesprek</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="hero section">
+        <div class="hero-bg">
+            <div class="video-background">
+                <video autoplay muted loop playsinline poster="images/hero-sea.jpg" id="hero-video">
+                    <source src="videos/Hero video compilation Manajo.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+            <div class="overlay"></div>
+        </div>
+        <div class="container hero-content text-center">
+            <h1 class="text-white fade-in-up">Video met Impact</h1>
+            <p class="text-white fade-in-up delay-1">
+                Wij vertellen menselijke verhalen die raken en verbinden. <br>
+                Van interactieve belevingen tot krachtige bedrijfsvideo's.
+            </p>
+            <div class="hero-buttons fade-in-up delay-2">
+                <a href="contact.html" class="btn btn-primary">Plan een vrijblijvend gesprek</a>
+                <a href="services.html" class="btn btn-secondary">Ontdek Video met Impact</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Services Overview (Alternating Blocks) -->
+
+    <!-- 1. Corporate Video (Text Right, Photo Left) -->
+    <section class="service-block bg-light-1">
+        <div class="container">
+            <div class="service-image">
+                <img src="images/corporate-video.jpg" alt="Bedrijfs video">
+            </div>
+            <div class="service-text">
+                <h2>Bedrijfsvideo's</h2>
+                <p>Verhalende en sfeervolle beelden die de ziel van jouw organisatie vastleggen. Een
+                    waardevolle manier om te laten zien wie je bent en waar je voor staat.</p>
+                <a href="services.html#video" class="btn btn-outline-dark">Meer info</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- 2. Livestreams (Text Left, Photo Right) -->
+    <section class="service-block reverse bg-light-2">
+        <div class="container">
+            <div class="service-image">
+
+                <img src="images/livestream-2.jpg" alt="Livestream event">
+
+            </div>
+            <div class="service-text">
+                <h2>Livestreams & Events</h2>
+                <p>Professioneel, schaalbaar en technisch betrouwbaar. Verbind live met je doelgroep, van kleine
+                    bijeenkomsten tot grote evenementen.</p>
+                <a href="services.html#video" class="btn btn-outline-dark">Meer info</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- 3. Interactive Tours (Text Right, Photo Left) -->
+    <section class="service-block bg-light-1">
+        <div class="container">
+            <div class="service-image">
+                <img src="images/kevin-filming-action.jpg" alt="Interactieve rondleiding">
+            </div>
+            <div class="service-text">
+                <h2>VindiQu Interactieve rondleidingen</h2>
+                <p>Laat bezoekers de wereld ontdekken. Een live en persoonlijke ervaring die verder gaat dan video.
+                    Geschikt voor
+                    zorgcentra, scholen en vastgoed.</p>
+                <a href="services.html#interactief" class="btn btn-outline-dark">Meer info</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- 4. Social Content (Text Left, Photo Right) -->
+    <section class="service-block reverse bg-light-2">
+        <div class="container">
+            <div class="service-image">
+                <img src="images/vindiqu-fc-utrecht.jpg" alt="social media content">
+            </div>
+            <div class="service-text">
+                <h2>Social Media Content</h2>
+                <p>Korte, krachtige video's die de aandacht grijpen. Perfect voor campagnes en dagelijkse zichtbaarheid
+                    om écht op te vallen.
+                </p>
+                <a href="services.html#social" class="btn btn-outline-dark">Meer info</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Parallax Impact Section -->
+    <section class="parallax-section" style="background-image: url('images/vindiqu-celebration.jpg');">
+        <div class="parallax-overlay"></div>
+        <div class="parallax-content">
+            <h2 class="text-white">Maatschappelijke Impact</h2>
+            <p class="text-white" style="font-size: 1.25rem; font-weight: 400;">
+                "We geloven dat video een krachtig middel is om mensen te verbinden, emoties te delen, duidelijkheid te
+                scheppen en maatschappelijke impact te maken."
+            </p>
+            <a href="about.html" class="btn btn-primary mt-md">Lees ons verhaal</a>
+        </div>
+    </section>
+
+    <!-- Testimonials -->
+    <section class="section testimonials bg-white">
+        <div class="container text-center">
+            <h2>Testimonials</h2>
+            <div class="testimonial-slider">
+                <div class="testimonial-item max-width-800 mx-auto">
+                    <p class="quote" style="font-size: 1.2rem; font-style: italic;">"Manajo heeft onze boodschap perfect
+                        vertaald naar beeld. Het voelde niet als een productie, maar als een samenwerking met mensen die
+                        echt luisteren."</p>
+                    <cite style="display: block; margin-top: 1rem; font-weight: 600; color: var(--color-primary);">-
+                        Stadsarchief Amsterdam</cite>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Soft CTA -->
+    <section class="section cta-soft text-center bg-light-1">
+        <div class="container">
+            <h2>Klaar om jouw verhaal te delen?</h2>
+            <p>Laten we samen kijken hoe we impact kunnen maken.</p>
+            <a href="contact.html" class="btn btn-primary">Neem contact op</a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <h4>MANAJO</h4>
+                    <p>Video met Impact.</p>
+                </div>
+                <div class="footer-col">
+                    <h4>Diensten</h4>
+                    <ul class="footer-links">
+                        <li><a href="services.html#interactief">Interactieve Rondleidingen</a></li>
+                        <li><a href="services.html#video">Bedrijfsvideo's</a></li>
+                        <li><a href="services.html#social">Livestreams</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Contact</h4>
+                    <ul class="footer-links">
+                        <li><a href="contact.html">Plan een gesprek</a></li>
+                        <li><a href="mailto:kevin@manajo.nl">kevin@manajo.nl</a></li>
+                        <li><a href="tel:+31645495501">+31 6 45 49 55 01</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Manajo. Alle rechten voorbehouden.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+
+</html>
