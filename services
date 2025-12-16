@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diensten – Video met Impact, Livestreams & Interactieve Rondleidingen | Manajo</title>
+    <meta name="description"
+        content="Bekijk onze diensten: interactieve rondleidingen (incl. VindiQu), livestreams, bedrijfsvideo’s en social content.">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Icons -->
+    <!DOCTYPE html>
+    <html lang="nl">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Diensten – Video met Impact, Livestreams & Interactieve Rondleidingen | Manajo</title>
+        <meta name="description"
+            content="Bekijk onze diensten: interactieve rondleidingen (incl. VindiQu), livestreams, bedrijfsvideo’s en social content.">
+
+        <!-- Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap"
+            rel="stylesheet">
+
+        <!-- Icons -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+        <!-- Styles -->
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container nav-container">
+            <a href="index.html" class="logo">MANAJO</a>
+            <div class="mobile-menu-btn">
+                <i class="fas fa-bars"></i>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html" class="nav-link">Home</a></li>
+                <li><a href="about.html" class="nav-link">Over Manajo</a></li>
+                <li><a href="services.html" class="nav-link active">Diensten</a></li>
+                <li><a href="contact.html" class="nav-link">Contact</a></li>
+                <li><a href="contact.html" class="btn btn-primary">Plan een gesprek</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Header -->
+    <header class="page-header section text-center">
+        <div class="container">
+            <h1>Onze diensten</h1>
+            <p>Video is meer dan beeld. Het is emotie, beleving en betekenis.</p>
+            <p>Wij helpen organisaties, families en bedrijven om hun verhaal te vertellen op een manier die:</p>
+            <ul class="feature-list" style="list-style: none; margin-bottom: 2rem;">
+                <li><i class="fas fa-check" style="color: var(--color-primary);"></i> helder is</li>
+                <li><i class="fas fa-check" style="color: var(--color-primary);"></i> voelbaar is</li>
+                <li><i class="fas fa-check" style="color: var(--color-primary);"></i> écht blijft hangen</li>
+            </ul>
+            <p>Van bedrijfsvideo’s tot live events — altijd met dezelfde aandacht voor menselijkheid en kwaliteit.
+            </p>
+        </div>
+    </header>
+
+
+    <!-- 1. Corporate Video (Text Right, Photo Left)-->
+    <section id="video" class="section service-block bg-white">
+        <div class="container">
+
+            <div class="service-text">
+                <h2>Bedrijfsvideo’s</h2>
+                <h3>De ziel van jouw organisatie in beeld</h3>
+                <p>Een sterke bedrijfsvideo is meer dan een reeks mooie beelden; het is een vertaling van jouw missie
+                    naar een voelbaar verhaal. Wij geloven dat je mensen pas écht raakt als je durft te laten zien wie
+                    je bent.</p>
+                <p>Of het nu gaat om een krachtige corporate story, een wervingsvideo die nieuw talent aantrekt, of een
+                    sfeervolle impressie van je werk. 
+                    Wij begeleiden het proces van A tot Z. Van het eerste creatieve
+                    concept tot de laatste color-grade.</p>
+                <p><strong>Wij creëren video's voor:</strong></p>
+                <ul class="feature-list" style="list-style: none;">
+                    <li><i class="fas fa-check" style="color: var(--color-primary);"></i> <strong>Employer
+                            Branding:</strong> Laat zien waarom mensen bij jou willen werken.</li>
+                    <li><i class="fas fa-check" style="color: var(--color-primary);"></i> <strong>Corporate
+                            Story:</strong> Jouw visie en waarden, helder verbeeld.</li>
+                    <li><i class="fas fa-check" style="color: var(--color-primary);"></i> <strong>Product &
+                            Dienst:</strong> Leg uit wat je doet, zonder saaie bulletpoints.</li>
+
+                </ul>
+                <div class="mt-md">
+                    <a href="contact.html" class="btn btn-outline-dark">Bekijk beschikbaarheid</a>
+                </div>
+
+                <!-- Logo Carousel: Bedrijfsvideo's -->
+                <div class="logo-carousel-container">
+                    <button class="carousel-btn prev-btn"><i class="fas fa-chevron-left"></i></button>
+                    <div class="logo-carousel">
+                        <div class="logo-item">
+                            <a href="#" class="logo-link" title="Distrivers">
+                                <img src="images/upload-logo-1.jpg" alt="Distrivers Logo" class="logo-img">
+                            </a>
+                        </div>
+                        <div class="logo-item">
+                            <a href="https://www.spijkermakelaardij.nl" target="_blank" class="logo-link"
+                                title="Spijker Makelaar">
+                                <img src="images/logo-spijker.jpg" alt="Spijker Makelaar Logo" class="logo-img">
+                            </a>
+                        </div>
+                        <div class="logo-item">
+                            <a href="https://www.ajax.nl" target="_blank" class="logo-link" title="FC Ajax">
+                                <img src="images/logo-ajax.png" alt="FC Ajax Logo" class="logo-img">
+                            </a>
+                        </div>
+                        <div class="logo-item">
+                            <a href="https://www.amsterdam.nl/stadsarchief/" target="_blank" class="logo-link"
+                                title="Stadsarchief">
+                                <img src="images/logo-stadsarchief.jpg" alt="Stadsarchief Logo" class="logo-img">
+                            </a>
+                        </div>
+                    </div>
+                    <button class="carousel-btn next-btn"><i class="fas fa-chevron-right"></i></button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 2. Livestreams (Text Left, Photo Right) -->
+    <section id="livestream" class="section service-block reverse bg-light-2">
+        <div class="container">
+
+            <div class="service-text">
+                <h2>Livestreams & Live Events</h2>
+                <h3>Jouw event, overal te beleven</h3>
+                <p>Het organiseren van een evenement is al spannend genoeg. Wij nemen de volledige technische zorg uit
+                    handen, zodat jij je kunt focussen op de inhoud en alle aanwezigen.</p>
+                <p>Of het nu gaat om een intiem concert, een hybride congres of een grootschalig live event: wij zorgen
+                    voor een stabiele stream, kraakhelder geluid en een professionele beeldregie. Geen haperingen, maar
+                    een uitzending waar je trots op bent zodat écht iedereen erbij kan zijn.</p>
+                <p><strong>Wat wij bieden:</strong></p>
+                <ul class="feature-list" style="list-style: none;">
+                    <li><i class="fas fa-check" style="color: var(--color-primary);"></i> <strong>Volledige
+                            ontzorging:</strong> Van camera tot internetverbinding.</li>
+                    <li><i class="fas fa-check" style="color: var(--color-primary);"></i> <strong>Interactie:</strong>
+                        Live polls, Q&A en chatfuncties voor maximale betrokkenheid.</li>
+                    <li><i class="fas fa-check" style="color: var(--color-primary);"></i> <strong>Multi-camera
+                            regie:</strong> Dynamisch en professioneel in beeld gebracht.</li>
+                </ul>
+                <div class="mt-md">
+                    <a href="contact.html" class="btn btn-outline-dark">Vraag offerte aan</a>
+                </div>
+
+                <!-- Logo Carousel: Livestreams -->
+                <div class="logo-carousel-container">
+                    <button class="carousel-btn prev-btn"><i class="fas fa-chevron-left"></i></button>
+                    <div class="logo-carousel">
+                        <div class="logo-item">
+                            <a href="https://www.grachtenfestival.nl" target="_blank" class="logo-link"
+                                title="Grachtenfestival">
+                                <img src="images/logo-grachtenfestival.jpg" alt="Grachtenfestival Logo"
+                                    class="logo-img">
+                            </a>
+                        </div>
+                        <div class="logo-item">
+                            <a href="https://www.burgerszoo.nl" target="_blank" class="logo-link" title="Burgers' Zoo">
+                                <img src="images/logo-burgerszoo.jpg" alt="Burgers' Zoo Logo" class="logo-img">
+                            </a>
+                        </div>
+                        <div class="logo-item">
+                            <a href="https://www.domtoren.nl" target="_blank" class="logo-link"
+                                title="Domtoren Utrecht">
+                                <img src="images/logo-domtoren.png" alt="Domtoren Utrecht Logo" class="logo-img">
+                            </a>
+                        </div>
+                        <div class="logo-item">
+                            <a href="https://pride.amsterdam" target="_blank" class="logo-link" title="Pride Amsterdam">
+                                <img src="images/logo-pride.jpg" alt="Pride Amsterdam Logo" class="logo-img">
+                            </a>
+                        </div>
+                        <div class="logo-item">
+                            <a href="https://keukenhof.nl" target="_blank" class="logo-link" title="Keukenhof">
+                                <img src="images/logo-keukenhof.png" alt="Keukenhof Logo" class="logo-img">
+                            </a>
+                        </div>
+                        <div class="logo-item">
+                            <a href="#" class="logo-link" title="Bakkerijmuseum">
+                                <img src="images/extra-logo-2.png" alt="Bakkerijmuseum Logo" class="logo-img">
+                            </a>
+                        </div>
+                        <div class="logo-item">
+                            <a href="#" class="logo-link" title="Sail Amsterdam">
+                                <img src="images/extra-logo-3.png" alt="Sail Amsterdam Logo" class="logo-img">
+                            </a>
+                        </div>
+                    </div>
+                    <button class="carousel-btn next-btn"><i class="fas fa-chevron-right"></i></button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 3. Interactive Tours (Text Right, Photo Left) -->
+    <section id="interactief" class="section service-block bg-light-1">
+        <div class="container">
+
+            <div class="service-text">
+                <h2>Interactieve Rondleidingen</h2>
+                <h3>Beleef locaties alsof je er echt bent</h3>
+                <p>Soms is een video niet genoeg. Met onze interactieve rondleidingen geef je bezoekers de regie in
+                    handen. Ze bepalen zelf hun route, tempo en kijken in het rond. Samen met een rondleider ontdekken
+                    zij hun persoonlijke en interactieve beleving.</p>
+                <div class="mt-md">
+                    <p>Onder de naam <strong>VindiQu</strong> ontwikkelen interactieve digitale tours voor mensen met
+                        een
+                        zorgbehoefte. Zo kunnen ouderen virtueel terug naar hun geboortedorp, een museum of een live
+                        event bezoeken. Gezellig samen met andere deelnemers.</p>
+
+                    <p><a href="https://www.vindiqu.com" target="_blank"
+                            style="color: var(--color-primary); font-weight: 600; text-decoration: underline;">Bezoek
+                            www.vindiqu.com voor meer informatie <i class="fas fa-external-link-alt"
+                                style="font-size: 0.8em;"></i></a></p>
+
+                </div>
+                <a href="contact.html" class="btn btn-primary mt-md">Vraag een kennismaking aan</a>
+
+                <!-- Logo Carousel: Interactive Tours -->
+                <div class="logo-carousel-container">
+                    <button class="carousel-btn prev-btn"><i class="fas fa-chevron-left"></i></button>
+                    <div class="logo-carousel">
+                        <div class="logo-item">
+                            <a href="https://www.vitalisgroep.nl" target="_blank" class="logo-link" title="Vitalis">
+                                <img src="images/upload-logo-0.jpg" alt="Vitalis Logo" class="logo-img">
+                            </a>
+                        </div>
+                        <div class="logo-item">
+                            <a href="https://www.terweel.nl" target="_blank" class="logo-link"
+                                title="Zorggroep Ter Weel">
+                                <img src="images/upload-logo-3.png" alt="Ter Weel Logo" class="logo-img">
+                            </a>
+                        </div>
+                        <div class="logo-item">
+                            <a href="https://www.kennemerhart.nl" target="_blank" class="logo-link"
+                                title="Oppeppers (Kennemerhart)">
+                                <img src="images/upload-logo-4.png" alt="Oppeppers Logo" class="logo-img">
+                            </a>
+                        </div>
+                        <div class="logo-item">
+                            <a href="https://hetgastenhuis.nl" target="_blank" class="logo-link" title="Het Gastenhuis">
+                                <img src="images/tour-logo-0.png" alt="Het Gastenhuis Logo" class="logo-img">
+                            </a>
+                        </div>
+                        <div class="logo-item">
+                            <a href="https://domusvaluas.nl" target="_blank" class="logo-link" title="Domus Valuas">
+                                <img src="images/tour-logo-1.png" alt="Domus Valuas Logo" class="logo-img">
+                            </a>
+                        </div>
+                        <div class="logo-item">
+                            <a href="https://www.olympischstadion.nl" target="_blank" class="logo-link"
+                                title="Olympisch Stadion">
+                                <img src="images/tour-logo-2.png" alt="Olympisch Stadion Logo" class="logo-img">
+                            </a>
+                        </div>
+                        <div class="logo-item">
+                            <a href="https://www.amstelring.nl" target="_blank" class="logo-link" title="Amstelring">
+                                <img src="images/tour-logo-3.png" alt="Amstelring Logo" class="logo-img">
+                            </a>
+                        </div>
+                        <div class="logo-item">
+                            <a href="https://www.cordaan.nl" target="_blank" class="logo-link" title="Cordaan">
+                                <img src="images/tour-logo-4.png" alt="Cordaan Logo" class="logo-img">
+                            </a>
+                        </div>
+                        <div class="logo-item">
+                            <a href="https://behouden-huys.nl" target="_blank" class="logo-link"
+                                title="Schatkamers van het Eiland">
+                                <img src="images/extra-logo-0.jpg" alt="Schatkamers van het Eiland Logo"
+                                    class="logo-img">
+                            </a>
+                        </div>
+                        <div class="logo-item">
+                            <a href="https://www.madurodam.nl" target="_blank" class="logo-link" title="Madurodam">
+                                <img src="images/extra-logo-1.jpg" alt="Madurodam Logo" class="logo-img">
+                            </a>
+                        </div>
+                        <div class="logo-item">
+                            <a href="https://www.bakkerijmuseum.nl" target="_blank" class="logo-link"
+                                title="Bakkerijmuseum">
+                                <img src="images/extra-logo-2.png" alt="Bakkerijmuseum Logo" class="logo-img">
+                            </a>
+                        </div>
+                    </div>
+                    <button class="carousel-btn next-btn"><i class="fas fa-chevron-right"></i></button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 4. Social Media Content (Text Left, Photo Right) -->
+    <section id="social" class="section service-block reverse bg-light-2">
+        <div class="container">
+
+            <div class="service-text">
+                <h2>Social Media Content</h2>
+                <h3>Stop the scroll, start the conversation</h3>
+                <p>Op social media heb je minder dan een seconde om de aandacht te grijpen. Wij maken content die
+                    opvalt, boeit en aanzet tot actie. Geen saaie praatjes, maar dynamische video's die perfect passen
+                    bij het platform.</p>
+
+                <p>Of het nu gaat om snelle TikToks, inspirerende Instagram Reels of inhoudelijke LinkedIn-video's: wij
+                    helpen je niet alleen met de productie, maar ook met de strategie. Zodat jouw merk niet alleen
+                    gezien wordt, maar ook een community opbouwt.</p>
+                <p><strong>Onze aanpak:</strong></p>
+                <ul class="feature-list" style="list-style: none;">
+                    <li><i class="fas fa-check" style="color: var(--color-primary);"></i> <strong>Concept &
+                            Strategie:</strong> Wat werkt voor jouw doelgroep?</li>
+                    <li><i class="fas fa-check" style="color: var(--color-primary);"></i> <strong>Snelle
+                            Productie:</strong> Efficiënt draaien voor een maand aan content.</li>
+                    <li><i class="fas fa-check" style="color: var(--color-primary);"></i>
+                        <strong>Platform-native:</strong> Video's die voelen alsof ze voor het platform gemaakt zijn.
+                    </li>
+                </ul>
+                <div class="mt-md">
+                    <a href="contact.html" class="btn btn-outline-dark">Bespreek mogelijkheden</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- CTA -->
+    <section class="section cta-section text-center bg-light-1">
+        <div class="container">
+            <h2>Klaar om jouw verhaal te delen?</h2>
+            <div class="mt-md">
+                <a href="contact.html" class="btn btn-primary">Plan een gesprek</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <h4>MANAJO</h4>
+                    <p>Video met Impact.</p>
+                </div>
+                <div class="footer-col">
+                    <h4>Diensten</h4>
+                    <ul class="footer-links">
+                        <li><a href="services.html#interactief">Interactieve Rondleidingen</a></li>
+                        <li><a href="services.html#video">Bedrijfsvideo's</a></li>
+                        <li><a href="services.html#social">Livestreams</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Contact</h4>
+                    <ul class="footer-links">
+                        <li><a href="contact.html">Plan een gesprek</a></li>
+                        <li><a href="mailto:kevin@manajo.nl">kevin@manajo.nl</a></li>
+                        <li><a href="tel:+31645495501">+31 6 45 49 55 01</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Manajo. Alle rechten voorbehouden.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+
+</html>
