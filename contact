@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact – Manajo Video Met Impact | Plan Een Gesprek</title>
+    <meta name="description"
+        content="Neem contact op met Manajo voor een persoonlijk gesprek over video met impact, livestreams en interactieve rondleidingen.">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Icons -->
+    <!DOCTYPE html>
+    <html lang="nl">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Contact – Manajo Video Met Impact | Plan Een Gesprek</title>
+        <meta name="description"
+            content="Neem contact op met Manajo voor een persoonlijk gesprek over video met impact, livestreams en interactieve rondleidingen.">
+
+        <!-- Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap"
+            rel="stylesheet">
+
+        <!-- Icons -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+        <!-- Styles -->
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container nav-container">
+            <a href="index.html" class="logo">MANAJO</a>
+            <div class="mobile-menu-btn">
+                <i class="fas fa-bars"></i>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html" class="nav-link">Home</a></li>
+                <li><a href="about.html" class="nav-link">Over Manajo</a></li>
+                <li><a href="services.html" class="nav-link">Diensten</a></li>
+                <li><a href="contact.html" class="nav-link active">Contact</a></li>
+                <li><a href="contact.html" class="btn btn-primary">Plan een gesprek</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Header -->
+    <header class="page-header section text-center">
+        <div class="container">
+            <h1>Laten we samen impact creëren</h1>
+            <p class="lead">Heb je een vraag, wil je een idee bespreken of zoek je iemand die écht meedenkt? Je bent van
+                harte welkom — wij geloven in de kracht van persoonlijk contact.</p>
+        </div>
+    </header>
+
+    <div class="container text-center mb-md">
+        <div
+            style="display: flex; gap: 20px; justify-content: center; max-width: 900px; margin: 0 auto; flex-wrap: wrap;">
+            <!-- Baker Image (Cropped) -->
+            <div style="flex: 1; min-width: 300px; height: 350px; overflow: hidden; border-radius: 8px;">
+                <img src="images/interactive-tour.jpg" alt="Vrolijke bakker"
+                    style="width: 100%; height: 100%; object-fit: cover; object-position: 20% center;">
+            </div>
+            <!-- Fix 2a -->
+            <!-- Fix 2b -->
+            <!-- Fix 3 -->
+        </div>
+    </div>
+
+
+    <!-- Contact Content -->
+    <section class="section contact-section bg-white">
+        <div class="container">
+            <div class="split-layout">
+                <!-- Contact Info -->
+                <div class="contact-info">
+                    <h2>Gegevens</h2>
+                    <p>Wil je sneller contact? Stuur gerust een WhatsAppbericht of bel ons voor een directe
+                        kennismaking.</p>
+
+                    <div class="info-item">
+                        <i class="fas fa-envelope"></i>
+                        <a href="mailto:kevin@manajo.nl">kevin@manajo.nl</a>
+                    </div>
+                    <div class="info-item">
+                        <i class="fas fa-phone"></i>
+                        <a href="tel:+31645495501">+31 6 45 49 55 01</a>
+                    </div>
+                    <div class="info-item">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <p>Nederland (Op afspraak)</p>
+                    </div>
+
+                    <div class="whatsapp-cta mt-md">
+                        <a href="https://wa.me/31645495501" target="_blank" class="btn btn-outline-dark">
+                            <i class="fab fa-whatsapp"></i> Stuur een appje
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Contact Form -->
+                <div class="contact-form-wrapper">
+                    <form class="contact-form" action="#" method="POST">
+                        <div class="form-group">
+                            <label for="name">Naam</label>
+                            <input type="text" id="name" name="name" required placeholder="Jouw naam">
+                        </div>
+                        <div class="form-group">
+                            <label for="email">E-mail</label>
+                            <input type="email" id="email" name="email" required placeholder="jouw@email.nl">
+                        </div>
+                        <div class="form-group">
+                            <label for="phone">Telefoonnummer</label>
+                            <input type="tel" id="phone" name="phone" placeholder="06 1234 5678">
+                        </div>
+                        <div class="form-group">
+                            <label for="message">Bericht</label>
+                            <textarea id="message" name="message" rows="5" required
+                                placeholder="Waar kunnen we je mee helpen?"></textarea>
+                        </div>
+
+                        <!-- CAPTCHA -->
+                        <div class="form-group captcha-group">
+                            <label for="captcha">Veiligheidscontrole: <span id="captcha-question"></span></label>
+                            <input type="text" id="captcha" name="captcha" required placeholder="Vul het antwoord in"
+                                autocomplete="off">
+                            <small class="captcha-hint">Beantwoord de vraag om te bewijzen dat je geen robot
+                                bent</small>
+                        </div>
+
+                        <button type="submit" class="btn btn-primary">Verstuur bericht</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <h4>MANAJO</h4>
+                    <p>Video met Impact.</p>
+                </div>
+                <div class="footer-col">
+                    <h4>Diensten</h4>
+                    <ul class="footer-links">
+                        <li><a href="services.html#interactief">Interactieve Rondleidingen</a></li>
+                        <li><a href="services.html#video">Bedrijfsvideo's</a></li>
+                        <li><a href="services.html#social">Livestreams</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Contact</h4>
+                    <ul class="footer-links">
+                        <li><a href="contact.html">Plan een gesprek</a></li>
+                        <li><a href="mailto:kevin@manajo.nl">kevin@manajo.nl</a></li>
+                        <li><a href="tel:+31645495501">+31 6 45 49 55 01</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Manajo. Alle rechten voorbehouden.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+
+</html>
